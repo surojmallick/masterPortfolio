@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Suroj Mallick ",
   logo_name: "Suroj Mallick",
-  nickname: "Rohit_brother",
+  nickname: "The one man force",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
